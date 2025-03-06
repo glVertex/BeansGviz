@@ -39,4 +39,4 @@ xdot file.gv
 # or
 dot file.gv > file.svg
 ```
-or copy content from file.gv to any Graphviz online viewer. (ex. https://dreampuf.github.io/GraphvizOnline)
+or copy content from file.gv to any Graphviz online viewer. (ex. https://edotor.net/)
